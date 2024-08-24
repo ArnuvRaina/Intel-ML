@@ -29,6 +29,8 @@ The Project uses the Adult Census Income dataset to explore various demographic 
 ### 1. Data Overview
 Insert adult.csv dataset to proceed 
 
+https://drive.google.com/file/d/1toTVZXSR3d0Vquna1p8DwjdL-8yvRBQT/view?usp=drive_link
+
 Explore the dataset's structure, including summary statistics, missing values, and unique value counts for each feature
 
 ### 2. Visualizations 📊

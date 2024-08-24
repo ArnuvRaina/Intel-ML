@@ -63,8 +63,8 @@ Ensure you have the following Python packages installed:
 ## 4. Installation 🛠️
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/intel-ml-project.git
-cd intel-ml-project
+git clone [https://github.com/yourusername/intel-ml-project.git](https://github.com/ArnuvRaina/Intel-ML)
+cd Intel-ML
 ```
 Install the required packages:
 
